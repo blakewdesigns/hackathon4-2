@@ -1,7 +1,6 @@
 body{
     width: 100%;
-    background-image: radial-gradient(grey, black);
-    background-repeat: no-repeat;
+    background-color: black;
 }
 
 .hero{
@@ -10,9 +9,9 @@ body{
     justify-content: center;
 }
 
-.hero img{
-    width: 50%;
-    height: 50%;
+img{
+    width: 100%;
 }
+
 
 
