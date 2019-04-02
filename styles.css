@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+    background-image: radial-gradient(grey, black);
+    background-repeat: no-repeat;
+}
+
+.hero{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hero img{
+    width: 50%;
+    height: 50%;
+}
+
+
