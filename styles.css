@@ -9,9 +9,30 @@ body{
     justify-content: center;
 }
 
+h2{
+    color: white;
+    text-align: center;
+}
+
+.card{
+    width: 30%;
+}
+
 img{
     width: 100%;
 }
 
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+form label{
+    color: white;
+    padding-top: 20px;
+}
 
 
